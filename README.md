@@ -15,7 +15,9 @@ The web scraper is implemented using JavaFX components and WebView functionality
 
 ## Challenges and Solutions
 -- **Dynamic Content:** Handles dynamic content using JavaScript execution in WebView.
+
 -- **Anti-Scraping Measures:** Rotates user agents and IP addresses for anonymity and avoids scraping restricted content.
+
 -- **Ethical Considerations:** Respects website terms and conditions, ensuring ethical and legal use of scraped data.
 ## Use Cases
 **Price monitoring for e-commerce.**
