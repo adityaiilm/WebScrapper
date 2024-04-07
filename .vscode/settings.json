@@ -1,0 +1,14 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\adity\\Downloads\\openjfx-21.0.2_windows-x64_bin-sdk\\javafx-sdk-21.0.2\\lib\\javafx.base.jar",
+        "c:\\Users\\adity\\Downloads\\openjfx-21.0.2_windows-x64_bin-sdk\\javafx-sdk-21.0.2\\lib\\javafx.controls.jar",
+        "c:\\Users\\adity\\Downloads\\openjfx-21.0.2_windows-x64_bin-sdk\\javafx-sdk-21.0.2\\lib\\javafx.fxml.jar",
+        "c:\\Users\\adity\\Downloads\\openjfx-21.0.2_windows-x64_bin-sdk\\javafx-sdk-21.0.2\\lib\\javafx.graphics.jar",
+        "c:\\Users\\adity\\Downloads\\openjfx-21.0.2_windows-x64_bin-sdk\\javafx-sdk-21.0.2\\lib\\javafx.media.jar",
+        "c:\\Users\\adity\\Downloads\\openjfx-21.0.2_windows-x64_bin-sdk\\javafx-sdk-21.0.2\\lib\\javafx.swing.jar",
+        "c:\\Users\\adity\\Downloads\\openjfx-21.0.2_windows-x64_bin-sdk\\javafx-sdk-21.0.2\\lib\\javafx.web.jar",
+        "c:\\Users\\adity\\Downloads\\openjfx-21.0.2_windows-x64_bin-sdk\\javafx-sdk-21.0.2\\lib\\javafx-swt.jar",
+        "c:\\Users\\adity\\Downloads\\jsoup-1.17.2.jar"
+    ]
+}
