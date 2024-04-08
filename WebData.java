@@ -3,7 +3,7 @@ import java.io.*;
 import java.net.URL; 
 public class WebData {
     public WebData (String url) throws IOException{
-        File  file = new File(url+".html");
+       File  file = new File(url+".html");
         FileWriter fWriter = new FileWriter(file);
         file.createNewFile();
         try{
